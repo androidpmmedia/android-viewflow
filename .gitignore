@@ -5,3 +5,5 @@ gen
 target
 local.properties
 proguard.cfg
+
+*.iml
